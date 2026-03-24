@@ -32,4 +32,4 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mustafa-kaya-2b4472293 (#)
 ---
 
-> "Clean code, clean mind." 💻# Selam! Ben [Adın] 👋
+> "Clean code, clean mind." 
